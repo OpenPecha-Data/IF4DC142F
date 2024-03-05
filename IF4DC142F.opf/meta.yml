@@ -1,0 +1,148 @@
+id: IF4DC142F
+ocr_import_info:
+  source: bdrc
+  software: google_books
+  batch: batch_2022
+  expected_default_language: bo
+  bdrc_scan_id: W8LS31241
+  ocr_info:
+    timestamp: 11/17/22T21:25:23
+    html: html.zip
+    txt: txt.zip
+    images: images.zip
+  op_import_options: {}
+  op_import_version: 0.11.9
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2024-03-05 16:47:11.742036+00:00
+last_modified: 2024-03-05 16:47:11.742041+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W8LS31241
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW8LS31241
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། མཁྱེན་བརྩེའི་དབང་པོ།
+  languages:
+  - bo
+  author: མཁྱེན་བརྩེའི་དབང་པོ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9466780262666412
+  ocr_word_median_confidence_index: 1.0
+bases:
+  I8LS31243:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31243
+      total_pages: 838
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I8LS31243.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9526768736707185
+  I8LS31246:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31246
+      total_pages: 883
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I8LS31246.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9608425458977351
+  I8LS31247:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31247
+      total_pages: 946
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I8LS31247.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9465808705957599
+  I8LS31248:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31248
+      total_pages: 942
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I8LS31248.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9500084860828242
+  I8LS31249:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31249
+      total_pages: 1043
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I8LS31249.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.946736767993381
+  I8LS31250:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31250
+      total_pages: 1170
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I8LS31250.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9366564948027556
+  I8LS31252:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31252
+      total_pages: 664
+      volume_number: 10
+      volume_pages_bdrc_intro: 2
+    order: 10
+    base_file: I8LS31252.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9366291330009742
+  I8LS31253:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31253
+      total_pages: 935
+      volume_number: 11
+      volume_pages_bdrc_intro: 2
+    order: 11
+    base_file: I8LS31253.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9479363424289552
+  I8LS31254:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31254
+      total_pages: 532
+      volume_number: 12
+      volume_pages_bdrc_intro: 2
+    order: 12
+    base_file: I8LS31254.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9391507880118848
+  I8LS31255:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I8LS31255
+      total_pages: 453
+      volume_number: 13
+      volume_pages_bdrc_intro: 2
+    order: 13
+    base_file: I8LS31255.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9451934508199588
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
